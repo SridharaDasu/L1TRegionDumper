@@ -1,3 +1,11 @@
+# Personal defaults
+*.log
+*.out
+*.dat
+
+# Compiled python
+*.pyc
+
 # Prerequisites
 *.d
 
@@ -28,5 +36,5 @@
 
 # Executables
 *.exe
-*.out
+a.out
 *.app

@@ -1,0 +1,10 @@
+ype                                  Module                   Label     Process           
+-------------------------------------------------------------------------------------------
+GlobalObjectMapRecord                 "hltGtStage2ObjectMap"   ""        "HLT"             
+edm::TriggerResults                   "TriggerResults"         ""        "HLT"             
+trigger::TriggerEvent                 "hltTriggerSummaryAOD"   ""        "HLT"             
+FEDRawDataCollection                  "rawDataCollector"       ""        "LHC"             
+edm::SortedCollection<EcalTriggerPrimitiveDigi,edm::StrictWeakOrdering<EcalTriggerPrimitiveDigi> >    "l1tCaloLayer1Digis"     ""        "L1TRegionDumperTest"   
+edm::SortedCollection<HcalTriggerPrimitiveDigi,edm::StrictWeakOrdering<HcalTriggerPrimitiveDigi> >    "l1tCaloLayer1Digis"     ""        "L1TRegionDumperTest"   
+edm::TriggerResults                   "TriggerResults"         ""        "L1TRegionDumperTest"   
+vector<L1CaloRegion>                  "l1tCaloLayer1Digis"     ""        "L1TRegionDumperTest"   
